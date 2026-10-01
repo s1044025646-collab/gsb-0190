@@ -1,0 +1,7 @@
+{
+  "positions": [
+    { "assetId": "EQ", "side": "long", "notional": 700000 },
+    { "assetId": "BD", "side": "long", "notional": 200000 },
+    { "assetId": "CASH", "side": "cash", "notional": 100000 }
+  ]
+}
